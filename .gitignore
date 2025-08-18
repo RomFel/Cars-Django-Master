@@ -11,3 +11,5 @@ __pycache__/
 # 🐍 Ambiente virtual (ajuste conforme o nome da sua pasta)
 venv/
 .venv/
+
+media/
